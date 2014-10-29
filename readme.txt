@@ -14,7 +14,7 @@ Adds a button to your blog post to allow users to ignore (or hide) comments from
 To ensure that all commenters are tracked by their user id, you must restrict commenting to only logged-in users.
 
 
-Major features in eBay Shop Page include:
+Major features in Ignore Commenter include:
 
 * Automatically places a button on the comments on your website or blog.
 * Contains admin page for each user to view all ignored commenters.
